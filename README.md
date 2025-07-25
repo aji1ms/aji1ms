@@ -25,10 +25,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aji1ms&show_icons=true&theme=gruvbox" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aji1ms&layout=compact&theme=gruvbox" height="165" />
-</p>
+<div align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=aji1ms&show_icons=true&theme=gruvbox&count_private=true" width="48%" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aji1ms&layout=compact&theme=gruvbox&langs_count=6" width="48%" />
+</div>
 
 ---
 
