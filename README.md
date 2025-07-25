@@ -30,7 +30,6 @@
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=aji1ms&show_icons=true&theme=gruvbox)
 
 #
-<!--
 <details>
  <summary><h3>👨‍💻 Ajims's Coding Journey</h3></summary>
  
@@ -50,4 +49,3 @@ Frontend development with HTML, TailWindCSS and React
 I believe in learning by doing, and every project I take on brings me closer to my goal of becoming a skilled full-stack developer. I'm passionate about solving real-world problems through technology and contributing to impactful projects.
 
 🚀 Looking forward to connecting and growing together
--->
