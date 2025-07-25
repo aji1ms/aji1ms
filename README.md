@@ -25,7 +25,10 @@
 
 ### 📊 GitHub Stats
 
-![Ajims's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aji1ms&show_icons=true&theme=gruvbox&hide_title=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aji1ms&show_icons=true&theme=gruvbox" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aji1ms&layout=compact&theme=gruvbox" height="165" />
+</p>
 
 ---
 
