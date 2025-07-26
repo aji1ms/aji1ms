@@ -45,6 +45,7 @@ Right after completing my 12th grade, I made a bold decision to pursue web devel
 - **Frontend**: HTML, Tailwind CSS, JavaScript (ES6+), React  
 - **Backend**: Node.js, Express.js, REST APIs  
 - **Database**: MongoDB
+- **CS Concepts**: Data Structures & Algorithms (DSA)
 
 ### 🎯 What Drives Me:
 I believe in *learning by doing*. Every project I work on teaches me something new and brings me closer to my goal of becoming a top-tier developer. I’m passionate about solving real-world problems through technology and building tools that make a difference.
