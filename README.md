@@ -2,7 +2,7 @@
 
 **`Full Stack Developer | MERN Stack | Passionate Coder`**
 
-📬 **Email**: ajimsismail123@gmail.com  
+📬 **Email**: aji1ms.dev@gmail.com  
 🔗 **LinkedIn**: [linkedin.com/in/ajims-ismail](https://www.linkedin.com/in/ajims-ismail)  
 💻 **GitHub**: [github.com/aji1ms](https://github.com/aji1ms)
 
